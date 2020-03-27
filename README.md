@@ -18,7 +18,7 @@ I have previously developed data collector workers for:
 
 with an architecture similar to that suggested in my proposal. These workers would run on a daily basis at a specific time and fetch all the data added after the script’s previous run and later push it into Google Big Query.
 
-Link: 
+Link: https://github.com/abhinavbajpai2012/Data-Collector-Workers
 ## MicroTasks
 - [x] **Microtask 0:** Familiarize yourself with augur by downloading and configuring the dev branch.
 - [x] **Microtask 1:** Familiarize yourself with the GitLab API and write a python program that successfully authenticates and pulls data from the API into JSON or other data files stored locally.
